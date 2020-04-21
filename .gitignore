@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Other
+Resnet34_3inputs_448x448_20200212.onnx
+2019Hanamatsuri.mp4
